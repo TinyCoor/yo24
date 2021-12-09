@@ -1,0 +1,3 @@
+[submodule "extern/atto"]
+	path = extern/atto
+	url = https://github.com/w23/atto.git
